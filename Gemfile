@@ -58,6 +58,12 @@ gem 'devise'
 gem 'bulma-rails'
 gem 'sidekiq'
 
+gem 'simple_form'
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'trix'
+gem 'stripe'
+
 group :development, :test do
   gem 'better_errors'
   gem 'guard'
