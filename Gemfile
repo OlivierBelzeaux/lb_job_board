@@ -58,11 +58,14 @@ gem 'devise'
 gem 'bulma-rails'
 gem 'sidekiq'
 
+gem 'binding_of_caller'
+
 gem 'simple_form'
 gem 'carrierwave'
 gem 'mini_magick'
 gem 'trix'
 gem 'stripe'
+gem 'figaro'
 
 group :development, :test do
   gem 'better_errors'
